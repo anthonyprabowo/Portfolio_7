@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+img {
+    height: 20px;
+    display: block;
+}
+
+.graphic {
+    margin: 0 auto;
+    height: 200px;
+}
